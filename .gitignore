@@ -226,3 +226,6 @@ kuavo_server/skills
 kuavo_docs/
 readme_new.md
 kuavo_server/README.md
+
+# CarlOS project artifacts
+.carlos/
